@@ -14,7 +14,7 @@ gilgRect = gilgamesh.get_rect()
 #gilgRect.centerx = 200
 
 while True:
-	
+
 	screen.fill((255, 255, 255))
 	screen.blit(gilgamesh, gilgRect)
 
